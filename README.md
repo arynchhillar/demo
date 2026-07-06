@@ -1,4 +1,4 @@
 # demo
 first git repo
 <br>
-author - aryan chhillar
+author - aryan chhillar (demo)
